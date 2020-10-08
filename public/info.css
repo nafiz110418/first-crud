@@ -1,0 +1,18 @@
+button{
+    background-color: #81a2e3;
+    border: none;
+    color: black;
+    padding: 3px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+table,tr,th,td
+{
+    border: 6px solid #b0b7c6;
+    border-collapse: collapse;
+    padding: 10px 10px;
+    font-weight: bolder;
+    color: #070707;
+    align-content: center;
+}
